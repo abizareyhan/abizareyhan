@@ -82,4 +82,4 @@ I hold a Google Play Academy certification and have a deep understanding of Play
 
 ## Top Languages 📊
 
-![Top Langs](https://github-readme-stats-indol-nine-78.vercel.app/api/top-langs/?username=abizareyhan&theme=radical&langs_count=100&exclude_repo=abzr-dawn,abizareyhandotcom-old,blog-abizareyhan,yakado-admin&hide=css,xslt,scss&size_weight=0.5&count_weight=0.5&layout=compact&timestamp=1742651880295)
+![Top Langs](https://github-readme-stats-indol-nine-78.vercel.app/api/top-langs/?username=abizareyhan&theme=radical&langs_count=100&exclude_repo=abzr-dawn,abizareyhandotcom-old,blog-abizareyhan,yakado-admin&hide=css,xslt,scss,c,dockerfile,cmake,c%2B%2B,ruby,aidl,python,objective-c,blade,ejs&size_weight=0.5&count_weight=0.5&layout=compact&timestamp=1749783435629)
