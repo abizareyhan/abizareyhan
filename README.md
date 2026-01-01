@@ -5,9 +5,10 @@
 [![GitHub Badge](https://img.shields.io/badge/-abizareyhan-181717?style=flat&logo=github&logoColor=white&link=https://github.com/abizareyhan)](https://github.com/abizareyhan)
 [![Email Badge](https://img.shields.io/badge/-me@abizareyhan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@abizareyhan.com)](mailto:me@abizareyhan.com)
 
-I'm a Senior Android Engineer with over 6 years of experience in mobile app development, specializing in Android (Kotlin). I also have cross-platform capabilities in Flutter and experience in iOS development. I began my journey in mobile development in 2018, and since then, I have honed my skills and expertise.
+I'm a Software Engineer since 2017, specializing in Android (Kotlin). I also have cross-platform capabilities in Flutter and iOS, complemented by a strong background in backend and web development, allowing me to understand and contribute to the entire technical stack.
 
-I hold a Google Play Academy certification and have a deep understanding of Play Store policies, enabling me to ensure compliance across projects.
+Additionally, I am Google Play Academy certified, leveraging a deep understanding of Play Store policies to ensure seamless compliance across all projects.
+
 ## Technologies I've worked with 🔧
 
 ### Mobile Development
